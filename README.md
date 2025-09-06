@@ -75,3 +75,29 @@ flowchart LR
   H --> I[LLM (Groq / HF Inference)]
   I --> J[Streamlit UI]
   J --> K[Observability (LangSmith / logs)]
+```
+
+---
+
+### 🎯 Now
+- Building **RAG prototypes** with LangChain/LangGraph + Pinecone.  
+- Deploying **Streamlit apps** on **GCP** with lightweight CI/CD.  
+- Open to **AI Engineer roles** (UK/EU).  
+
+---
+
+### 🎓 About Me
+- MSc **Data Science & Analytics**, University of Leeds (First-class).  
+- Ex-IBM **Application Developer**: ML, ETL, dashboards, stakeholder engagement.  
+
+---
+
+### 🤝 Let’s Connect
+If you’re exploring **AI apps that deliver ROI**, let’s chat!  
+📫 rajarshin264@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/rajarshi-nandi/)
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rajo69&style=flat-square" alt="profile views"/>
+</p>
