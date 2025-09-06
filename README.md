@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rajarshi Nandi 👋</h1>
 <p align="center">
-  <b>AI Engineer</b> • Rapid Prototyping • RAG • Tool Calling • MCP Servers • LLM Evals • Streamlit • GCP  
+  <b>AI Engineer</b> • Rapid Prototyping • RAG • Tool Calling • MCP Servers • LLM Evals • Fine-Tuning • APIs • Streamlit • GCP  
   <br/>
   Turning ideas into shipped AI apps with measurable ROI.
 </p>
@@ -19,6 +19,8 @@
 - **Engineer advanced LLM systems**:  
   - 🔧 Function & tool calling workflows  
   - 🌐 MCP (Model Context Protocol) server integrations  
+  - 🎯 Fine-tuning (SFT) for domain-specific tasks  
+  - 🔌 API development for scalable AI service integration  
   - ✅ LLM evaluation frameworks for benchmarking & QA  
 - **Collaborate across teams** (data engineers, scientists, stakeholders) to deliver tangible ROI.  
 
@@ -40,6 +42,8 @@
   <img alt="Tool%20Calling" src="https://img.shields.io/badge/Tool--Calling-9333EA"/>
   <img alt="MCP Servers" src="https://img.shields.io/badge/MCP--Servers-1E40AF"/>
   <img alt="LLM Evals" src="https://img.shields.io/badge/LLM--Evals-16A34A"/>
+  <img alt="Fine-Tuning" src="https://img.shields.io/badge/Fine--Tuning-DC2626"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-2563EB"/>
   <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-2563EB"/>
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B"/>
   <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4"/>
@@ -69,7 +73,7 @@ Forecasted consumer spending & analyzed hotel reviews with R (time-series + NLP)
 
 ---
 
-### 🧩 AI Engineering Workflow (RAG + Tool Calls + MCP + Evals)
+### 🧩 AI Engineering Workflow (RAG + Tool Calls + MCP + Fine-Tuning + APIs + Evals)
 ```mermaid
 flowchart TD
   A[User Query] --> B[Planner: LangGraph]
@@ -78,10 +82,12 @@ flowchart TD
   D --> E[LLM Inference]
   E --> F[Tool or Function Calls]
   F --> G[MCP Server Integration]
-  G --> H[Response Composer]
-  H --> I[App UI: Streamlit]
-  I --> J[LLM Evals and Metrics]
-  J --> K[Observability and Logs]
+  G --> H[Fine-Tuned Models for Domain Tasks]
+  H --> I[API Layer for External Access]
+  I --> J[Response Composer]
+  J --> K[App UI: Streamlit]
+  K --> L[LLM Evals and Metrics]
+  L --> M[Observability and Logs]
 ```
 
 ---
@@ -89,6 +95,8 @@ flowchart TD
 ### 🎯 Now
 - Prototyping **RAG apps** with LangChain/LangGraph + Pinecone.  
 - Exploring **tool/function calling pipelines** and **MCP servers**.  
+- Implementing **fine-tuned LLMs** for domain-specific accuracy.  
+- Building **API endpoints** to expose AI models as services.  
 - Designing **LLM eval workflows** to measure faithfulness, latency, and ROI.  
 - Deploying **Streamlit apps** on **GCP** with lightweight CI/CD.  
 - Open to **AI Engineer roles** (UK/EU).  
