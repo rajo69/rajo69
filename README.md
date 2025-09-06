@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rajarshi Nandi 👋</h1>
 <p align="center">
-  <b>AI Engineer</b> • Rapid Prototyping • RAG & LangChain/LangGraph • Streamlit • GCP Deployments  
+  <b>AI Engineer</b> • Rapid Prototyping • RAG • Tool Calling • MCP Servers • LLM Evals • Streamlit • GCP  
   <br/>
   Turning ideas into shipped AI apps with measurable ROI.
 </p>
@@ -16,6 +16,10 @@
 ### 🚀 What I Do
 - **Prototype & iterate AI apps fast** with LangChain/LangGraph, HuggingFace, RAG + vector DBs (Pinecone), and Streamlit.  
 - **Ship to production** on **GCP**, with clean and reproducible repos.  
+- **Engineer advanced LLM systems**:  
+  - 🔧 Function & tool calling workflows  
+  - 🌐 MCP (Model Context Protocol) server integrations  
+  - ✅ LLM evaluation frameworks for benchmarking & QA  
 - **Collaborate across teams** (data engineers, scientists, stakeholders) to deliver tangible ROI.  
 
 **Selected outcomes:**  
@@ -33,6 +37,9 @@
   <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0891B2"/>
   <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFCC4D"/>
   <img alt="RAG" src="https://img.shields.io/badge/RAG-6B7280"/>
+  <img alt="Tool%20Calling" src="https://img.shields.io/badge/Tool--Calling-9333EA"/>
+  <img alt="MCP Servers" src="https://img.shields.io/badge/MCP--Servers-1E40AF"/>
+  <img alt="LLM Evals" src="https://img.shields.io/badge/LLM--Evals-16A34A"/>
   <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-2563EB"/>
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B"/>
   <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4"/>
@@ -62,25 +69,27 @@ Forecasted consumer spending & analyzed hotel reviews with R (time-series + NLP)
 
 ---
 
-### 🧩 Typical RAG App Architecture
+### 🧩 AI Engineering Workflow (RAG + Tool Calls + MCP + Evals)
 ```mermaid
-flowchart LR
-  A[Docs and Data Sources] --> B[Chunk and Clean]
-  B --> C[Embedder: HF or OpenAI]
-  C --> D[(Vector DB: Pinecone)]
-  E[User Query] --> F[Query Planner: LangGraph]
-  F --> G[Retriever]
-  G --> D
-  D --> H[Context Assembler]
-  H --> I[LLM Inference]
-  I --> J[Streamlit UI]
-  J --> K[Observability: LangSmith]
+flowchart TD
+  A[User Query] --> B[Planner: LangGraph]
+  B --> C[Retriever: RAG with Pinecone]
+  C --> D[Context Assembler]
+  D --> E[LLM Inference]
+  E --> F[Tool or Function Calls]
+  F --> G[MCP Server Integration]
+  G --> H[Response Composer]
+  H --> I[App UI: Streamlit]
+  I --> J[LLM Evals and Metrics]
+  J --> K[Observability and Logs]
 ```
 
 ---
 
 ### 🎯 Now
-- Building **RAG prototypes** with LangChain/LangGraph + Pinecone.  
+- Prototyping **RAG apps** with LangChain/LangGraph + Pinecone.  
+- Exploring **tool/function calling pipelines** and **MCP servers**.  
+- Designing **LLM eval workflows** to measure faithfulness, latency, and ROI.  
 - Deploying **Streamlit apps** on **GCP** with lightweight CI/CD.  
 - Open to **AI Engineer roles** (UK/EU).  
 
