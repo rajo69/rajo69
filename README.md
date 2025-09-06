@@ -65,16 +65,16 @@ Forecasted consumer spending & analyzed hotel reviews with R (time-series + NLP)
 ### 🧩 Typical RAG App Architecture
 ```mermaid
 flowchart LR
-  A[Docs / Data Sources] --> B[Chunk & Clean]
-  B --> C[Embedder (HF / OpenAI / Instructor)]
+  A[Docs & Data Sources] --> B[Chunk & Clean]
+  B --> C[Embedder: HF | OpenAI]
   C --> D[(Vector DB: Pinecone)]
-  E[User Query] --> F[Query Planner (LangGraph)]
+  E[User Query] --> F[Query Planner: LangGraph]
   F --> G[Retriever]
   G --> D
   D --> H[Context Assembler]
-  H --> I[LLM (Groq / HF Inference)]
+  H --> I[LLM Inference]
   I --> J[Streamlit UI]
-  J --> K[Observability (LangSmith / logs)]
+  J --> K[Observability: LangSmith]
 ```
 
 ---
