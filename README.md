@@ -1,28 +1,33 @@
-# Hi, I'm Rajarshi Nandi 👋
+# 👋 Hi, I'm Rajarshi Nandi
 
-## 🤖 AI Engineer | Production-Ready LLM Applications
+🚀 **AI Engineer | Building Production-Ready LLM Apps**  
+I turn AI prototypes into deployed applications that deliver measurable ROI.
 
-I build **end-to-end AI solutions** that deliver measurable business impact. From rapid prototyping with LangChain to production deployment on GCP, I turn AI concepts into applications that drive real ROI.
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajarshi-nandi/">LinkedIn</a> •
+  <a href="https://github.com/rajo69">GitHub</a> •
+  <a href="mailto:rajarshin264@gmail.com">Email</a>
+</p>
 
-### 🚀 Recent Impact
-- **💰 $45K secured** in Fortune 500 investments through data-driven AI strategies
-- **📊 14% cost reduction** for clients via ML-powered demand forecasting
-- **🎯 9% churn reduction** using predictive modeling and XGBoost
+---
+
+## 💡 Recent Wins
+- 💰 **$45K secured** in Fortune 500 investments with data-driven AI strategies  
+- 📈 **14% cost reduction** for clients via ML-powered demand forecasting  
+- 🔄 **9% churn reduction** using predictive modeling and XGBoost  
 
 ---
 
 ## ⚡ What I Build
-
-🔧 **Prototype & iterate AI apps fast** with LangChain/LangGraph, HuggingFace, RAG + vector DBs (Pinecone), and Streamlit  
-🚀 **Ship to production** on GCP with clean and reproducible repos  
-🧠 **Engineer advanced LLM systems:**
-- 🔄 Function & tool calling workflows
-- 🌐 MCP (Model Context Protocol) server integrations  
-- 🎯 Fine-tuning (SFT) for domain-specific tasks
-- 🔗 API development for scalable AI service integration
-- 📊 LLM evaluation frameworks for benchmarking & QA
-
-🤝 **Collaborate across teams** (data engineers, scientists, stakeholders) to deliver tangible ROI
+✅ **Prototype & iterate AI apps fast** with LangChain, HuggingFace, RAG + vector DBs (Pinecone), Streamlit  
+✅ **Ship to production** on GCP with clean and reproducible repos  
+✅ **Engineer advanced LLM systems**:  
+   - 🔧 Function & tool calling workflows  
+   - 🌐 MCP (Model Context Protocol) server integrations  
+   - 🎯 Fine-tuning (SFT) for domain-specific tasks  
+   - 🔌 API development for scalable AI service integration  
+   - ✅ LLM evaluation frameworks for benchmarking & QA  
+✅ **Collaborate across teams** (data engineers, scientists, stakeholders) to deliver tangible ROI  
 
 ---
 
