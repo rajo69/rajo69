@@ -1,71 +1,57 @@
 # Hi, I'm Rajarshi Nandi 👋
 
-## 🤖 AI Engineer | Production-Ready LLM Applications
+## 📊 Data Analyst | Business Intelligence & Data-Driven Strategy
 
-I build **end-to-end AI solutions** that deliver measurable business impact. From rapid prototyping with LangChain to production deployment on GCP, I turn AI concepts into applications that drive real ROI.
+I translate data into actionable insights that drive business growth. With a foundation in data analysis, visualization, and stakeholder management, I empower organizations to make informed, data-driven decisions.
 
 ### 🚀 Recent Impact
-- **💰 $45K secured** in Fortune 500 investments through data-driven AI strategies
-- **📊 14% cost reduction** for clients via ML-powered demand forecasting
-- **🎯 9% churn reduction** using predictive modeling and XGBoost
+- **💰 14% cost reduction** for clients by developing and implementing data-driven strategies.
+- **📈 6% revenue increase** for an insurance firm through the application of demand forecasting techniques.
+- **⚙️ 23% reduction in data processing time** by designing and implementing efficient ETL pipelines.
 
 ---
 
-## ⚡ What I Build
+## ⚡ What I Do
 
-🔧 **Prototype & iterate AI apps fast** with LangChain/LangGraph, HuggingFace, RAG + vector DBs (Pinecone), and Streamlit  
-🚀 **Ship to production** on GCP with clean and reproducible repos  
-🧠 **Engineer advanced LLM systems:**
-- 🔄 Function & tool calling workflows
-- 🌐 MCP (Model Context Protocol) server integrations  
-- 🎯 Fine-tuning (SFT) for domain-specific tasks
-- 🔗 API development for scalable AI service integration
-- 📊 LLM evaluation frameworks for benchmarking & QA
+🔧 **Analyze & Visualize Data:** I transform complex datasets into clear and compelling stories using **Power BI** and **Tableau** to build interactive dashboards and reports.
 
-🤝 **Collaborate across teams** (data engineers, scientists, stakeholders) to deliver tangible ROI
+🧠 **Data-Driven Decision Making:** I leverage my skills in **statistical data modeling** and **machine learning** to uncover trends, predict outcomes, and provide actionable recommendations.
+
+🔗 **End-to-End Data Management:** I am experienced in the entire data lifecycle, from **ETL** processes and **data warehousing** to ensuring **data quality** and performing **root cause analysis**.
+
+🤝 **Stakeholder Collaboration:** I excel at bridging the gap between technical and non-technical teams, gathering **business requirements**, and presenting insights to drive strategic initiatives.
 
 ---
 
-## 🛠️ AI Engineering Stack
+## 🛠️ Data Analyst Toolkit
 
-### 🧠 **LLMs & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG-4285F4?style=flat&logoColor=white)
+### 📊 **Data Visualization & BI**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
-### 🗄️ **Vector & Data**
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white)
-![Tool Calling](https://img.shields.io/badge/Tool_Calling-32CD32?style=flat&logoColor=white)
-![MCP Servers](https://img.shields.io/badge/MCP_Servers-FF4500?style=flat&logoColor=white)
+### 💻 **Languages & Databases**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-### ☁️ **Deployment & MLOps**
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Fine-Tuning](https://img.shields.io/badge/Fine_Tuning-8A2BE2?style=flat&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-006400?style=flat&logoColor=white)
+### ☁️ **Cloud & Big Data**
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
-### 🔧 **Dev Tools**
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Groq LLM](https://img.shields.io/badge/Groq_LLM-FF6B35?style=flat&logoColor=white)
+### 🔧 **Development & Project Management**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)![Agile](https://img.shields.io/badge/Agile-0078D4?style=flat&logo=agile&logoColor=white)
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🔍 [JobLens AI Resume Analyzer](https://github.com/rajo69/Job_lens_ai)
-**AI-powered resume-JD matching with interview prep**  
-`LangChain` `Groq LLM API` `RAG` `Streamlit` `GCP` `Web Scraping`
+### 🏨 [U.S. Consumer Spending & Hotel Review Analysis](https://github.com/rajo69)
+**Forecasted consumer spending and analyzed 10k hotel reviews to identify key service and location drivers.**
+`R` `Time-Series Analysis` `Text Analysis` `Data Visualization`
 
-### 📋 [BidBrief - Smart Proposal Generator](https://github.com/rajo69/BidBrief)
-**Streamlines UK SME bidding with AI-generated proposals**  
-`Python` `AI Automation` `Business Process Optimization`
+### 🍄 [Interactive Mushroom Data Analysis Application](https://github.com/rajo69)
+**Developed a Shiny app to analyze mushroom data, training and cross-validating decision tree and random forest models with 98% accuracy.**
+`R` `Machine Learning` `Shiny App` `Data Modeling`
 
-### 🛡️ [Adversarial-Robust CNN](https://github.com/rajo69/RESNET-18-Robustness-in-MATLAB)
-**Enhanced image classifier robustness by 6100% against attacks**  
-`MATLAB` `Deep Learning` `Adversarial Training` `CIFAR-10`
+### 🔍 [JobLens AI - Resume-JD Semantic Fit Analyzer](https://github.com/rajo69/Job_lens_ai)
+**Built a tool to compute the semantic fit between resumes and job descriptions and provide interview preparation tips.**
+`Python` `Web Scraping` `Prompt Engineering` `Streamlit` `Google Firebase Firestore`
 
 ---
 
@@ -77,7 +63,7 @@ I build **end-to-end AI solutions** that deliver measurable business impact. Fro
 
 ## 🤝 Let's Connect
 
-**Building AI apps that deliver ROI?** Let's chat!  
+**Looking to leverage data for business impact?** Let's chat!
 📧 [rajarshin264@gmail.com](mailto:rajarshin264@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/rajarshi-nandi/)
 
-*Currently seeking AI Engineering opportunities in the UK*
+*Currently seeking Data Analyst opportunities in the UK*
