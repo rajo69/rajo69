@@ -1,69 +1,76 @@
 # Hi, I'm Rajarshi Nandi 👋
 
-## 📊 Data Analyst | Business Intelligence & Data-Driven Strategy
+## 🤖 Aspiring AI Engineer | Building Intelligent Systems
 
-I translate data into actionable insights that drive business growth. With a foundation in data analysis, visualization, and stakeholder management, I empower organizations to make informed, data-driven decisions.
+I build and deploy AI-driven applications, transforming complex data into intelligent, automated solutions. With a Master's in Data Science and hands-on experience with Large Language Models (LLMs), deep learning, and end-to-end MLOps pipelines, I bridge the gap between innovative AI concepts and practical business impact.
 
-### 🚀 Recent Impact
-- **💰 14% cost reduction** for clients by developing and implementing data-driven strategies.
-- **📈 6% revenue increase** for an insurance firm through the application of demand forecasting techniques.
-- **⚙️ 23% reduction in data processing time** by designing and implementing efficient ETL pipelines.
-
----
-
-## ⚡ What I Do
-
-🔧 **Analyze & Visualize Data:** I transform complex datasets into clear and compelling stories using **Power BI** and **Tableau** to build interactive dashboards and reports.
-
-🧠 **Data-Driven Decision Making:** I leverage my skills in **statistical data modeling** and **machine learning** to uncover trends, predict outcomes, and provide actionable recommendations.
-
-🔗 **End-to-End Data Management:** I am experienced in the entire data lifecycle, from **ETL** processes and **data warehousing** to ensuring **data quality** and performing **root cause analysis**.
-
-🤝 **Stakeholder Collaboration:** I excel at bridging the gap between technical and non-technical teams, gathering **business requirements**, and presenting insights to drive strategic initiatives.
+### 🚀 Key Achievements
+- **🧠 Developed & Deployed AI Solutions:** Engineered `Job Lens AI`, a semantic analysis tool using LLMs (Llama 3.1) and advanced prompt engineering to deliver tangible user value.
+- **🛡️ Enhanced Model Robustness:** Augmented a CNN's resilience against adversarial attacks by over **6100%** while maintaining **88%** accuracy.
+- **📈 Delivered Business Impact:** Drove a **14% cost reduction** for clients and a **9% reduction in customer churn** by implementing machine learning and data-driven strategies.
 
 ---
 
-## 🛠️ Data Analyst Toolkit
+## ⚡ What I Build With
 
-### 📊 **Data Visualization & BI**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+As an AI Engineer, I focus on the complete development lifecycle of intelligent systems.
 
-### 💻 **Languages & Databases**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+🔧 **AI Application & LLM Development:** I architect and build end-to-end applications powered by LLMs. My experience includes **Retrieval-Augmented Generation (RAG)**, fine-tuning (**LoRA, PEFT**), advanced **Prompt Engineering (CoT)**, and leveraging frameworks like **LangChain** and **FastAPI** to create robust, scalable solutions.
 
-### ☁️ **Cloud & Big Data**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+🧠 **Deep Learning & Machine Learning:** I construct and train sophisticated models using **PyTorch**. My project experience ranges from **Computer Vision** (CNNs, ResNet) for image captioning and classification to building predictive models (**XGBoost**) for critical business problems like customer churn.
 
-### 🔧 **Development & Project Management**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)![Agile](https://img.shields.io/badge/Agile-0078D4?style=flat&logo=agile&logoColor=white)
+🔗 **Data & MLOps Foundation:** I design and implement the foundational data infrastructure that powers AI. This includes building efficient **ETL pipelines**, managing **Vector Databases (Pinecone)** for semantic search, and deploying applications on cloud platforms like **GCP** and **Azure**.
 
 ---
 
-## 🏆 Featured Projects
+## 🛠️ AI Engineering Toolkit
 
-### 🏨 [U.S. Consumer Spending & Hotel Review Analysis](https://github.com/rajo69)
-**Forecasted consumer spending and analyzed 10k hotel reviews to identify key service and location drivers.**
-`R` `Time-Series Analysis` `Text Analysis` `Data Visualization`
+### 🤖 **AI & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-008661?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs%20(Groq)-00B46A?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🍄 [Interactive Mushroom Data Analysis Application](https://github.com/rajo69)
-**Developed a Shiny app to analyze mushroom data, training and cross-validating decision tree and random forest models with 98% accuracy.**
-`R` `Machine Learning` `Shiny App` `Data Modeling`
+### ⚙️ **Backend & Deployment**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### 🔍 [JobLens AI - Resume-JD Semantic Fit Analyzer](https://github.com/rajo69/Job_lens_ai)
-**Built a tool to compute the semantic fit between resumes and job descriptions and provide interview preparation tips.**
-`Python` `Web Scraping` `Prompt Engineering` `Streamlit` `Google Firebase Firestore`
+### 🗃️ **Databases & Data Processing**
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0077B5?style=for-the-badge&logo=pinecone&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🏆 Featured AI Projects
+
+### 🚀 [Job Lens AI - CV & Job Description Semantic Analyser](https://github.com/rajo69/Job_lens_ai)
+**Engineered a web app that leverages LLMs (Llama 3.1) to analyze the semantic fit between a CV and job description, using a RAG-like architecture with the Serper API to provide tailored interview preparation advice.**
+`Python` `LLM` `Prompt Engineering (CoT)` `RAG` `Groq API` `Streamlit` `Google Firebase`
+
+### 🛡️ [CNN Resilience Against Adversarial Attacks](https://github.com/rajo69)
+**Augmented a CNN's robustness by over 6100% on the CIFAR-10 dataset by implementing Hybrid Adversarial Training, demonstrating skills in model integrity and defence.**
+`MATLAB` `Deep Learning` `Computer Vision` `Model Robustness`
+
+### 🖼️ [End-to-End Image Captioning Model](https://github.com/rajo69)
+**Constructed a deep learning model featuring a ResNet-152 CNN encoder and an RNN decoder in PyTorch to generate descriptive captions for images from the COCO dataset.**
+`PyTorch` `CNN` `RNN` `Encoder-Decoder` `NLP`
 
 ---
 
 ## 📈 GitHub Stats
 
-![Rajarshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajo69&show_icons=true&theme=dark&count_private=true)
+![Rajarshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajo69&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117)
 
 ---
 
 ## 🤝 Let's Connect
 
-**Looking to leverage data for business impact?** Let's chat!
-📧 [rajarshin264@gmail.com](mailto:rajarshin264@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/rajarshi-nandi/)
+I am actively seeking **AI Engineer** roles in the UK where I can build innovative solutions and contribute to impactful projects. Let's create something intelligent together!
 
-*Currently seeking Data Analyst opportunities in the UK*
+📧 [rajarshin264@gmail.com](mailto:rajarshin264@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/rajarshi-nandi/)
