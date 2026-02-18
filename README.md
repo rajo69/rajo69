@@ -1,95 +1,63 @@
-# Hi, I'm Rajarshi Nandi 👋
+# Rajarshi Nandi
 
-## 🤖 AI & Machine Learning Engineer | Data Scientist | Driving Business Impact
+**Research interests:** Robustness and reliability of learned models under real-world distribution mismatch · Uncertainty estimation and calibration · Multimodal learning under incomplete or noisy inputs · Trustworthy AI for deployment in safety-critical domains
 
-I build and deploy intelligent, AI-driven applications and leverage advanced analytics to transform complex data into actionable insights. With a First-class Honours Master's in Data Science and hands-on experience with Large Language Models (LLMs), deep learning, and end-to-end MLOps pipelines, I bridge the gap between innovative AI concepts, robust data analysis, and practical business impact.
-
-### 🚀 Key Achievements
-- **🧠 Developed & Deployed AI Solutions:** Engineered `Job Lens AI`, a semantic analysis tool using LLMs (Llama 3.1) and advanced prompt engineering to deliver tangible user value.
-- **📈 Drove Business Outcomes:** Implemented machine learning and data-driven strategies that resulted in a **14% cost reduction** for clients, a **9% reduction in customer churn**, and a **14% improvement in Marketing ROI**.
-- **📊 Enhanced Data-Driven Decision Making:** Led data migration projects and built interactive dashboards (Tableau, Power BI) which increased efficiency in decision-making processes by **17%**.
-- **🛡️ Enhanced Model Robustness:** Augmented a CNN's resilience against adversarial attacks by over **6100%** while maintaining **88%** accuracy.
+MSc Data Science & Analytics, University of Leeds (2023–2024)
+📧 rajarshin264@gmail.com · [LinkedIn](https://linkedin.com/in/rajarshi-nandi/)
 
 ---
 
-## ⚡ What I Build With & How I Deliver Value
+## Research
 
-As an AI Engineer and Data Scientist, I focus on the complete development lifecycle of intelligent systems and the analytical process to extract valuable insights.
+My work sits at the intersection of **adversarial robustness** and **deployment-time reliability** — investigating how models behave when the data they encounter differs from what they were trained on, and how to design systems that respond to this mismatch safely and efficiently.
 
-🔧 **AI Application & LLM Development:** I architect and build end-to-end applications powered by LLMs. My experience includes **Retrieval-Augmented Generation (RAG)**, fine-tuning (**LoRA, PEFT**), advanced **Prompt Engineering (CoT)**, and leveraging frameworks like **LangChain** and **FastAPI** to create robust, scalable solutions.
+My Master's thesis explored the accuracy-robustness trade-off in deep neural networks through a curriculum adversarial training approach, finding that the *timing* of adversarial exposure during training critically determines whether it helps or harms generalisation. A key finding was that hybrid, schedule-aware strategies can preserve clean-data performance while meaningfully improving resilience — suggesting that context-sensitive, adaptive mechanisms are more effective than static training regimes.
 
-🧠 **Deep Learning & Machine Learning:** I construct and train sophisticated models using **PyTorch**. My project experience ranges from **Computer Vision** (CNNs, ResNet) for image captioning and classification to building predictive models (**XGBoost**) for critical business problems like customer churn.
-
-📊 **Advanced Data Analysis & Business Intelligence:** I excel in applying **time-series forecasting**, **text analysis**, and **statistical data modelling** to identify key drivers and trends. I design and implement efficient **ETL pipelines** from various sources (SQL, Snowflake), build interactive dashboards (Tableau, Power BI), and perform comprehensive data quality checks to ensure reliable insights.
-
-🔗 **Data & MLOps Foundation:** I design and implement the foundational data infrastructure that powers AI. This includes managing **Vector Databases (Pinecone)** for semantic search, and deploying applications on cloud platforms like **GCP** and **Azure**. I also have extensive experience in **stakeholder management**, **requirement gathering**, and working within an **Agile framework** to ensure solutions are both technically sound and strategically impactful.
+This raised a broader question I find compelling across many deployment contexts: how do we design models that remain reliable and well-calibrated when the data they encounter after deployment differs — sometimes subtly, sometimes dramatically — from what they were trained on? And how should models signal or act on that uncertainty rather than producing confident but untrustworthy outputs?
 
 ---
 
-## 🛠️ My Toolkit
+## Projects
 
-### 🤖 **AI & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-008661?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LLM APIs](https://img.shields.io/badge/LLM%20APIs%20(Groq)-00B46A?style=for-the-badge&logo=openai&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logo=xgboost&logoColor=white)
+### [Hybrid Adversarial Training for Neural Network Robustness](https://github.com/rajo69/Enhancing-Neural-Network-Robustness-using-Hybrid-Adversarial-Training)
+*Master's Thesis · University of Leeds · 2024*
 
-### 📊 **Data Analysis & BI**
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=for-the-badge&logo=rstudio&logoColor=white)
+Investigated the robustness-accuracy Pareto frontier in ResNet-18 (CIFAR-10) by designing a curriculum learning schedule that transitions from clean to adversarial training at a principled epoch boundary. Evaluated against FGSM and PGD attacks. Employed Grad-CAM to analyse how feature generalisation changes across training regimes — finding that curriculum-aware training produces more object-level, interpretable representations than either purely clean or purely adversarial approaches. Run on Leeds ARC4 HPC cluster.
 
-### ⚙️ **Backend & Deployment**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🗃️ **Databases & Data Processing**
-![Pinecone](https://img.shields.io/badge/Pinecone-0077B5?style=for-the-badge&logo=pinecone&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-2299EE?style=for-the-badge&logo=snowflake&logoColor=white)
+`PyTorch` `MATLAB` `Adversarial Training (FGSM/PGD)` `Curriculum Learning` `Grad-CAM` `HPC`
 
 ---
 
-## 🏆 Featured Projects
+### [Multimodal Vision-Language Integration](https://github.com/rajo69/Image-Caption-Generator-using-ResNet-152-and-RNN)
+*Academic Project · University of Leeds · 2024*
 
-### 🚀 [Job Lens AI - CV & Job Description Semantic Analyser](https://github.com/rajo69/Job_lens_ai)
-**Engineered a web application that leverages LLMs (Llama 3.1) to analyze the semantic fit between a CV and job description, using a RAG-like architecture with the Serper API to provide tailored interview preparation advice.**
-`Python` `LLM` `Prompt Engineering (CoT)` `RAG` `Groq API` `Streamlit` `Google Firebase`
+Built an encoder-decoder image captioning model pairing ResNet-152 visual features with an RNN language decoder, trained on MS COCO. Observed significant performance degradation when visual encoder features were applied to out-of-distribution images — highlighting the fragility of cross-modal systems under input distribution mismatch and motivating interest in robust multimodal architectures.
 
-### 📊 [US Consumer Spending & Hotel Review Analysis](https://github.com/rajo69)
-**Conducted a comprehensive analysis of U.S. consumer spending and 10k hotel reviews using time-series forecasting and text analysis in R to identify key service and location drivers, presenting actionable insights to stakeholders.**
-`R` `Time Series Analysis` `Text Analysis` `Statistical Modelling` `Data Visualisation`
-
-### 🛡️ [CNN Resilience Against Adversarial Attacks](https://github.com/rajo69)
-**Augmented a CNN's robustness by over 6100% on the CIFAR-10 dataset by implementing Hybrid Adversarial Training, demonstrating skills in model integrity and defence.**
-`MATLAB` `Deep Learning` `Computer Vision` `Model Robustness`
-
-### 🖼️ [End-to-End Image Captioning Model](https://github.com/rajo69)
-**Constructed a deep learning model featuring a ResNet-152 CNN encoder and an RNN decoder in PyTorch to generate descriptive captions for images from the COCO dataset.**
-`PyTorch` `CNN` `RNN` `Encoder-Decoder` `NLP`
-
-### 🍄 [Interactive Mushroom Classification App](https://github.com/rajo69)
-**Deployed an interactive Shiny application for mushroom data analysis, integrating decision tree and random forest models to achieve 98% cross-validation accuracy in classification tasks.**
-`R` `Shiny` `Machine Learning` `Classification` `Interactive Dashboard`
+`PyTorch` `ResNet-152` `RNN` `MS COCO` `Transfer Learning` `Encoder-Decoder`
 
 ---
 
-## 📈 GitHub Stats
+### [RAG API for Regulatory Compliance (UKGC)](https://github.com/rajo69/ukgc-lccp-rag-api)
+*Personal Project · 2026*
 
-![Rajarshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajo69&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117)
+Designed a retrieval pipeline addressing the semantic context collapse that standard chunking methods introduce when processing hierarchically structured documents. By injecting metadata that preserves document structure during embedding, retrieval accuracy improved from 42% to 89% — demonstrating that architectural decisions about information representation have substantial downstream reliability consequences.
+
+`Python` `LangChain` `Vector Retrieval` `FastAPI` `Semantic Search`
 
 ---
 
-## 🤝 Let's Connect
+## Technical Skills
 
-I am actively seeking **AI Engineer** and **Data Scientist** roles in the UK where I can build innovative solutions, extract valuable insights, and contribute to impactful projects. Let's create something intelligent and data-driven together!
+**Deep Learning:** PyTorch · TensorFlow · HuggingFace Transformers · Adversarial Training · Computer Vision · Grad-CAM  
+**Research Areas:** Distribution Shift · Uncertainty Estimation · Robustness · Multimodal Learning · Continual Adaptation  
+**Infrastructure:** Leeds ARC4 HPC · Linux · Docker · Git · OCI  
+**Languages:** Python · MATLAB · SQL
 
-📧 [rajarshin264@gmail.com](mailto:rajarshin264@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/rajarshi-nandi/)
+---
+
+## Currently Exploring
+
+- Mechanisms for controlling adaptation in models deployed under distribution shift — when should a model update itself, and when should it abstain or defer?
+- Uncertainty-aware and calibrated inference in safety-critical deployment contexts where overconfident predictions carry real consequences
+- Multimodal architectures that remain reliable under missing, corrupted, or temporally drifting input modalities
+- Lightweight approaches to continual learning that avoid catastrophic forgetting while adapting to individual data distributions over time
