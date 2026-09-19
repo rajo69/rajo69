@@ -31,9 +31,9 @@ Based in Sheffield, UK. I build enterprise ERP integrations on SAP S/4HANA and a
 | [agentic-ai-accounting](https://github.com/rajo69/agentic-ai-accounting) | Confidence-gated RL policy evaluation for autonomous accounting workflows. |
 | [chronoagent](https://github.com/rajo69/chronoagent) | Time-series security monitoring for multi-agent LLM systems. |
 | [ukgc-lccp-rag-api](https://github.com/rajo69/ukgc-lccp-rag-api) | Grounded RAG API over UK Gambling Commission LCCP regulation. |
-| [Banking77 intent classification](https://github.com/rajo69/Fine-Tuning-Llama-3.2-1B-Instruct-on-Banking77-Intent-Classification) | Llama 3.2 1B Instruct fine-tuned with LoRA for Banking77 intent classification. |
+| [banking77-llama-1b-lora](https://github.com/rajo69/banking77-llama-1b-lora) | Llama 3.2 1B Instruct fine-tuned with LoRA for Banking77 intent classification. |
 | [Clustering-Stability-Analysis](https://github.com/rajo69/Clustering-Stability-Analysis) | Stability analysis of clustering methods on single-cell RNA-seq data. |
-| [Gate sparsity in gated attention](https://github.com/rajo69/Gate-Sparsity-and-Functional-Sensitivity-in-Gated-Attention-An-Empirical-Analysis) | Empirical analysis of gate sparsity and functional sensitivity in gated attention. |
+| [Gate-Sparsity](https://github.com/rajo69/Gate-Sparsity) | Empirical analysis of gate sparsity and functional sensitivity in gated attention. |
 
 ## Education
 
