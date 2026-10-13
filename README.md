@@ -17,7 +17,7 @@ I build AI products where the model proposes, code validates and a person decide
 
 Stack: Python, FastAPI, PostgreSQL with pgvector, LangGraph; Next.js and TypeScript; deployed on Vercel and Railway.
 
-Built solo with Claude Code, March to October 2026. My calls included the UK MTD and Xero framing, the review-layer positioning, what to build and what to cut, the stack, the two LangGraph workflows and Haiku first with Sonnet on low confidence; I also owned the verification: reading the diffs, running and testing the app, and deciding which review findings and which claims to accept. Claude Code was the implementer: it wrote the code and drafted the docs. <a href="https://github.com/rajo69/agentic-ai-accounting#about">How it was built</a> · deployed on Vercel and Railway, open source under MIT.
+Built March to October 2026. My calls included the UK MTD and Xero framing, the review-layer positioning, what to build and what to cut, the stack, the two LangGraph workflows and Haiku first with Sonnet on low confidence; I also owned the verification: reading the diffs, running and testing the app, and deciding which review findings and which claims to accept. <a href="https://github.com/rajo69/agentic-ai-accounting#about">How it was built</a> · deployed on Vercel and Railway, open source under MIT.
 
 ## Also built
 
